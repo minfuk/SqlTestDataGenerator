@@ -1,0 +1,4 @@
+
+*.suo
+/SqlTestDataGenerator/obj
+/SqlTestDataGenerator/bin
